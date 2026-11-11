@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="database" path="myfocus.db" />
+    <include domain="sharedpref" path="myfocus_preferences.preferences_pb" />
+</full-backup-content>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Focus icon circle -->
+    <path
+        android:strokeColor="#64B5F6"
+        android:strokeWidth="4"
+        android:pathData="M 54 28 A 26 26 0 1 0 54 80 A 26 26 0 1 0 54 28" />
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M 54 44 A 10 10 0 1 0 54 64 A 10 10 0 1 0 54 44" />
+</vector>
+
